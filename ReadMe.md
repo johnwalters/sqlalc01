@@ -1,6 +1,8 @@
+
 -- run version check to see if things are set up right (if module not found look at path in version_check.py)
 #  python.exe version_check.py
 # 
+-- this code came from https://www.pythoncentral.io/introductory-tutorial-python-sqlalchemy/
 -- creates database (locally on disk)
 # python.exe sqlalchemy_declarative.py
 # 
